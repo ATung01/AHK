@@ -1,0 +1,19 @@
+{
+  "name": "ahk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATung01/AHK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATung01/AHK/issues"
+  },
+  "homepage": "https://github.com/ATung01/AHK#readme"
+}
